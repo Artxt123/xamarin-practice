@@ -3,6 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>nexus_s_lollipop_5_1_-_api_22</SelectedDevice>
     <ActiveDebugProfile>nexus_s_lollipop_5_1_-_api_22</ActiveDebugProfile>
-    <DefaultDevice>nowy_emulator</DefaultDevice>
+    <DefaultDevice>nexus_s_lollipop_5_1_-_api_22</DefaultDevice>
   </PropertyGroup>
 </Project>

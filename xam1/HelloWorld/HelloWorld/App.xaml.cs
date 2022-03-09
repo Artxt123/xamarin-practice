@@ -11,7 +11,7 @@ namespace HelloWorld
         {
             InitializeComponent();
 
-            MainPage = new FirstPage();
+            MainPage = new ControlsPage();
         }
 
         protected override void OnStart()
